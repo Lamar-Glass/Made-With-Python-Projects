@@ -1,0 +1,1 @@
+print("Hallo! Mein Name ist Lamar. Ich komme aus Kenia und möchte in die Schweiz und nach Deutschland reisen.")
